@@ -2,6 +2,8 @@
 
 Site estático de apresentação dos serviços elétricos de Vitor Silva Dias, MEI na Zona Sul de São Paulo.
 
+Endereço público: https://vitor-silva-dias-eletricista.vercel.app/inicio
+
 ## Editar
 
 - Conteúdo: `index.html`
